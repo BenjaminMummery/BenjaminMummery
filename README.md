@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BenjaminMummery
 - 📫 How to reach me
-  - benjamin.mummery@stfc.ac.uk
+  - Don't
 
 <!---
 BenjaminMummery/BenjaminMummery is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
