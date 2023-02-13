@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BenjaminMummery
 - 📫 How to reach me
-  - Don't
+  - Email: benjamin.mummery@hotmail.co.uk
 
 <!---
 BenjaminMummery/BenjaminMummery is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
