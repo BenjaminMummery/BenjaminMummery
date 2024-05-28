@@ -10,9 +10,6 @@ export CLICOLOR=1
 alias ls='ls -G'
 alias ll='ls -lG'
 
-# Python configuration
-alias python=python3.8
-
 # Quality of Life hacks
 alias please='sudo $(fc -ln -1)'
 alias gh='history|grep'
