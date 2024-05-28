@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @BenjaminMummery
+<!--- Copyright (c) 2021 - 2024 Benjamin Mummery -->
+
+- 👋 Hi, I’m @BenjaminMummery (they/them)
 - 📫 How to reach me
   - Email: benjamin.mummery@hotmail.co.uk
 
