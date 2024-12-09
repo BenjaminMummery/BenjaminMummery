@@ -1,5 +1,3 @@
-cd $HOME/Documents/Projects
-
 # Source custom functions
 if [ -e $HOME/.bash_functions ]; then
     source $HOME/.bash_functions
